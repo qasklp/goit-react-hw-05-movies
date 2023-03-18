@@ -1,0 +1,7 @@
+.mainSection{
+    display: flex;
+}
+
+.box{
+    margin-left: 15px;
+}
